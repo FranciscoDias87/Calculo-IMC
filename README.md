@@ -1,2 +1,2 @@
 # Calculadora IMC
-##Desenvolvida com HTML, CSS e JS.
+### Desenvolvida com HTML, CSS e JS.
